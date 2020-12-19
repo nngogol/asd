@@ -1,0 +1,28 @@
+hello world
+
+*bold* text with _italic_ in `code`.
+
+.List:
+* s1
+** s2
+* s1a
+
+picture hgere: `image::https://apexembdesigns.com/sites/default/files/cuttable/11942/shopsmall2.jpg[width=150]`
+
+again picture hgere.
+
+image::https://apexembdesigns.com/sites/default/files/cuttable/11942/shopsmall2.jpg[width=150]
+
+see this
+
+image::https://apexembdesigns.com/sites/default/files/cuttable/11942/shopsmall2.jpg[width=150]
+
+text
+
+
+[source,python]
+----
+print(4+5)
+for i in range(45):
+  print(456+765)
+----

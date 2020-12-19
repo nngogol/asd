@@ -1,0 +1,22 @@
+= main page
+:toc:
+:toc: right
+:myrepo:https://github.com/nngogol/asd/blob/main/docs
+
+
+== Start here
+
+// look at {myrepo}/chap1.adoc[this place]
+
+
+Также есть линк
+
+link:chap1.adoc[]
+
+Моежт он работает
+
+
+include::chap1.adoc[]
+
+include::chap2.adoc[]
+
