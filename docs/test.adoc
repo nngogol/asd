@@ -1,7 +1,8 @@
 = main page
 :toc:
 :toc: right
-:myrepo:https://github.com/nngogol/asd/blob/main/docs
+:myrepo:https://github.com/nngogol/asd/blob/main/
+:mygpages:https://nngogol.github.io/asd
 
 
 == Start here
@@ -9,9 +10,37 @@
 // look at {myrepo}/chap1.adoc[this place]
 
 
-Также есть линк
+=== raw file links from github
 
-link:chap1.adoc[]
+link:https://github.com/nngogol/asd/blob/main/docs/chap1.adoc[file]
+
+link:https://github.com/nngogol/asd/blob/main/README.md[fiile2]
+
+via variable:
+
+link:{myrepo}/docs/chap1.adoc[file]
+
+link:https://github.com/nngogol/asd/blob/main/README.md[fiile2]
+
+
+
+
+linka 1
+
+link:chap1.html[]
+
+linka 2
+
+link:https://nngogol.github.io/asd/chap1.html[]
+
+linka 3
+
+link:{myrepo}/chap1.html[]
+
+linka 4
+
+
+
 
 Моежт он работает
 
