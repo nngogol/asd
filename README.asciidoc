@@ -1,22 +1,12 @@
 
+docs https://nngogol.github.io/asd/[here]
+
 = hello
 
-text here
+Example: include gitignore file in this repo
 
-== sec1
-
-text here
-
-=== sec2
-
-text here
-
-==== sec3
-
-[source,asciidoc]
+[source]
 ----
-include::test.asciidoc[]
+include::https://raw.githubusercontent.com/nngogol/asd/main/.gitignore[]
 ----
 
-
-test
