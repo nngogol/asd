@@ -1,0 +1,35 @@
+---
+layout: page
+---
+
+== рук ку уцка уцка
+
+
+вфі в ф ва віа а
+
+вфі в ф ва віа а
+
+вфі в *fasdф* ва віа а _gdfg_  `code`
+
+.dsa
+* dfasd sad
+* das
+* d
+* f
+** dg
+* fdg
+
+
+link:/adoca/smor5[heer]
+
+// { % site.url % }
+
+image 1
+
+image::/assets/q1.png[]
+
+image 2
+
+image::/assets/w2.png[]
+
+// image::{{site.assets.path}}/q1.png[]

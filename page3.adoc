@@ -1,0 +1,7 @@
+---
+layout: page
+title: Page3
+permalink: /mypage3/
+---
+
+hello *world*, _again_.
